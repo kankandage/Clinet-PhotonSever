@@ -1,0 +1,8 @@
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe.config
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.exe
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\bin\Debug\CSharp直接连接MySQL.pdb
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\bin\Debug\aliyun-net-sdk-core.dll
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\bin\Debug\aliyun-net-sdk-dm.dll
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.csprojResolveAssemblyReference.cache
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.exe
+E:\VS Workspace\PhotonServer教程\CSharp直接连接MySQL\obj\Debug\CSharp直接连接MySQL.pdb

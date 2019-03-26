@@ -1,0 +1,12 @@
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\sikiedu.exe.config
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\sikiedu.exe
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\sikiedu.pdb
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\Iesi.Collections.dll
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\MySql.Data.dll
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\NHibernate.dll
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\Iesi.Collections.xml
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\NHibernate.xml
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\obj\Debug\利用NHibernate和MySQL交互.csprojResolveAssemblyReference.cache
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\obj\Debug\sikiedu.exe
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\obj\Debug\sikiedu.pdb
+E:\VS Workspace\PhotonServer教程\利用NHibernate和MySQL交互\bin\Debug\hibernate.cfg.xml

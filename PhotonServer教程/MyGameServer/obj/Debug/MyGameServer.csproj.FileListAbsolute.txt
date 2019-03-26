@@ -1,0 +1,10 @@
+E:\VS Workspace\PhotonServer教程\MyGameServer\bin\Debug\MyGameServer.dll
+E:\VS Workspace\PhotonServer教程\MyGameServer\bin\Debug\MyGameServer.pdb
+E:\VS Workspace\PhotonServer教程\MyGameServer\obj\Debug\MyGameServer.dll
+E:\VS Workspace\PhotonServer教程\MyGameServer\obj\Debug\MyGameServer.pdb
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.pdb
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\log4net.config
+E:\VS Workspace\PhotonServer教程\MyGameServer\obj\Debug\MyGameServer.csprojResolveAssemblyReference.cache
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\hibernate.cfg.xml
+D:\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyGameServer\bin\MyGameServer.dll.config
